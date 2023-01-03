@@ -1,6 +1,16 @@
 body{
-    background-image: url(/media/images/background/background-1.jpg);
-    width: 600px;
+    background-image: url(/media/images/background/background-2.jpg);
+    
     font-family: Arial, Helvetica, sans-serif;
     
+}
+video{
+    width: 55%;
+}
+h3{
+    font-size: 20px;
+    color:white;
+}
+iframe{
+    width: 55%;
 }
